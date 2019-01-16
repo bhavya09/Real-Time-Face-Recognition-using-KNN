@@ -1,4 +1,3 @@
-# Recogonize facts using some classification algorithm - like logistic , knn ,SVM etc
 
 
 # 1. Load the training data(numpy arrays of all persons)
